@@ -34,7 +34,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
  
  Developed by: POOJA.P  RegisterNumber: 212224100041
-
+```
 module Ex8(d, clk, rst, q, qbar);
     input d;
     input clk;
@@ -60,7 +60,7 @@ module Ex8(d, clk, rst, q, qbar);
      qbar=1'b0;
      end      end    endmodule
 
-
+```
      
 
 **RTL LOGIC FOR FLIPFLOPS**
